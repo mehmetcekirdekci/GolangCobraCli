@@ -1,3 +1,4 @@
-`go install github.com/spf13/cobra-cli@latest`
-`go mod init github.com/mehmetcekirdekci/myapp`
-`cobra-cli init`
+`go install github.com/spf13/cobra-cli@latest` <br>
+`go mod init github.com/mehmetcekirdekci/myapp` <br>
+`cobra-cli init` <br>
+[Click to go to source](https://github.com/spf13/cobra-cli)
