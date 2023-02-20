@@ -1,1 +1,1 @@
-# GolangCobraCli
+# GolangCobraCli initialize example first commit.
